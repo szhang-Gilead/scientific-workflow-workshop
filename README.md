@@ -1,4 +1,6 @@
-Contact: Thomas Johnson thjohnson@microsoft.com
+Contact: Shumin Zhang Shumin.Zhang@gilead.com
+
+# Please Read Me
 
 # Scientific workflow GitHub workshop
 
